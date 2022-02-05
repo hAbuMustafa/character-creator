@@ -16,7 +16,7 @@ const ToggleButton = ({
       className={styles.toggleButton}
       style={{ backgroundColor: color }}
     >
-      <span className="visually-hidden">{label}</span>
+      <span className="visually-hidden">hello</span>
       {children}
     </button>
   );
